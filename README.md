@@ -1,6 +1,6 @@
 # Daniel Shultz
 
-** I'm an aspiring Software Engineer interested in developing and maintaining systems, firmware and hardware, optimizing code, and finding interesting ways to name my variables! **
+**I'm an aspiring Software Engineer interested in developing and maintaining systems, firmware and hardware, optimizing code, and finding interesting ways to name my variables!**
 
 - 🔭 I’m currently working on personal projects related to videogames 🎮
 - 🌱 I'm currently learning Java
