@@ -1,4 +1,11 @@
-### Hi there 👋
+# Daniel Shultz
+
+** I'm an aspiring Software Engineer interested in developing and maintaining systems, firmware and hardware, optimizing code, and finding interesting ways to name my variables! **
+
+- 🔭 I’m currently working on personal projects related to videogames 🎮
+- 🌱 I'm currently learning Java
+- 🔍 I'm currently seeking a position as a Software Engineer or Firmware Engineer
+- ⚡ I'm energetic and trying to improve myself every day
 
 <!--
 **daniels-4/daniels-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
