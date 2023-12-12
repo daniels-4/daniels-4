@@ -2,9 +2,9 @@
 
 **I'm an aspiring Software Engineer interested in developing and maintaining systems, firmware and hardware, optimizing code, and finding interesting ways to name my variables!**
 
-- 🔭 I’m currently working on personal projects related to videogames 🎮
-- 🌱 I'm currently learning Java
-- 🔍 I'm currently seeking a position as a Software Engineer or Firmware Engineer
+- 🔭 I’m currently working on creative projects! 🎮
+- 🌱 I'm currently learning Web Development
+- 🔍 I'm currently seeking to further my career as a Software Engineer
 - ⚡ I'm energetic and trying to improve myself every day
 
 <!--
