@@ -2,11 +2,6 @@
 
 **I'm an aspiring Software Engineer interested in developing and maintaining systems, firmware and hardware, optimizing code, and finding interesting ways to name my variables!**
 
-- 🔭 I’m currently working on creative projects! 🎮
-- 🌱 I'm currently learning Web Development
-- 🔍 I'm currently seeking to further my career as a Software Engineer
-- ⚡ I'm energetic and trying to improve myself every day
-
 <!--
 **daniels-4/daniels-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
